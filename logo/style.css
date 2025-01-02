@@ -1,0 +1,28 @@
+#belso {
+    align-items: center;
+    display: flex;
+    column-gap: 10px;
+}
+
+#kep {
+    height: 100px;
+}
+
+#kep img {
+    height: 100%;
+}
+
+#szoveg {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #364065;
+    font-variant: small-caps;
+}
+
+#szoveg p {
+    margin: 0px;
+    padding: 0px;
+}
+
+#felso {
+    font-size: 1.5em;
+}
