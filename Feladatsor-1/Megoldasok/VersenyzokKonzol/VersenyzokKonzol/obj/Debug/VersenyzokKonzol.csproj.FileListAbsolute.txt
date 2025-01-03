@@ -1,0 +1,7 @@
+C:\Users\Peter\Desktop\Szakmai vizsga\Feladatsor-1\Megoldasok\VersenyzokKonzol\VersenyzokKonzol\bin\Debug\VersenyzokKonzol.exe.config
+C:\Users\Peter\Desktop\Szakmai vizsga\Feladatsor-1\Megoldasok\VersenyzokKonzol\VersenyzokKonzol\bin\Debug\VersenyzokKonzol.exe
+C:\Users\Peter\Desktop\Szakmai vizsga\Feladatsor-1\Megoldasok\VersenyzokKonzol\VersenyzokKonzol\bin\Debug\VersenyzokKonzol.pdb
+C:\Users\Peter\Desktop\Szakmai vizsga\Feladatsor-1\Megoldasok\VersenyzokKonzol\VersenyzokKonzol\obj\Debug\VersenyzokKonzol.csproj.AssemblyReference.cache
+C:\Users\Peter\Desktop\Szakmai vizsga\Feladatsor-1\Megoldasok\VersenyzokKonzol\VersenyzokKonzol\obj\Debug\VersenyzokKonzol.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\Szakmai vizsga\Feladatsor-1\Megoldasok\VersenyzokKonzol\VersenyzokKonzol\obj\Debug\VersenyzokKonzol.exe
+C:\Users\Peter\Desktop\Szakmai vizsga\Feladatsor-1\Megoldasok\VersenyzokKonzol\VersenyzokKonzol\obj\Debug\VersenyzokKonzol.pdb
